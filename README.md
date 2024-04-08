@@ -1,7 +1,3 @@
-Certainly! Below is a draft for a README file for your GitHub repository. This draft provides an overview of your simple CRUD API, how to set it up, run it, and details about each endpoint.
-
----
-
 # Simple CRUD API with Express.js
 
 This repository contains a simple CRUD (Create, Read, Update, Delete) API built with Express.js and Node.js. It's designed to manage a basic task list, where each task has an ID, title, description, and a completed status. This project is ideal for those learning how to build APIs with Express.js or for anyone needing a simple backend for task management applications.
@@ -25,7 +21,7 @@ git clone https://github.com/quynhnle135/simple-express-crud-api.git
 Navigate to the project directory:
 
 ```bash
-cd simple-express-crud-api
+cd simple-express-crud-ap
 ```
 
 Install the necessary dependencies:
